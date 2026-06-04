@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# allow these files
+!.gitignore
+!README.md
+!LICENSE
+
+# ensure directories are traversable
+!*/
