@@ -23,15 +23,15 @@ It serves as the central index for:
 
 ### ☁️ Cloud Engineering
 
-- Cloud-Scripts → modular automation, infrastructure scripts, and reusable tooling
+- Cloud → modular automation, infrastructure scripts, and reusable tooling
 
 ### 🏢 Enterprise Systems
 
-- Enterprise-Solutions → integrated deployments, platform-level solutions, and operational systems
+- Enterprise → integrated deployments, platform-level solutions, and operational systems
 
 ### 📦 Archive Systems
 
-- Scripts-Archive → legacy scripts, experimental tooling, and historical automation
+- Vault → legacy scripts, experimental tooling, and historical automation
 
 ---
 
