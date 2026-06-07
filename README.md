@@ -30,7 +30,7 @@ It serves as the central index for:
 
 ### 📦 Archive Systems
 
-- Vault → legacy scripts, experimental tooling, and historical automation
+- Archive → legacy scripts, experimental tooling, and historical automation
 
 ---
 
