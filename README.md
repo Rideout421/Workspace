@@ -6,6 +6,8 @@ Central engineering workspace and portfolio hub for cloud engineering, automatio
 
 ## Overview
 
+---
+
 GitHubWorkspace is the top-level engineering hub that connects all repositories into a structured portfolio system.
 
 It serves as the central index for:
@@ -26,29 +28,27 @@ It serves as the central index for:
 
 ---
 
-## Repository Map
+## 📁 Repository Map
 
 ### ☁️ Cloud Engineering
 
-* **Cloud** → modular automation, infrastructure scripts, and reusable tooling
+* **Cloud** → modular automation, infrastructure scripts, cloud-native tooling, and reusable engineering components
 
 ### 🏢 Enterprise Systems
 
-* **Enterprise** → integrated deployments, platform-level solutions, and operational systems
+* **Enterprise** → integrated enterprise deployments, platform-level solutions, identity-aware systems, and operational engineering workflows
+
+### 🚀 Command Center
+
+* **Command-Center** → centralized personal engineering workspace for automation, cloud experimentation, infrastructure tooling, and project development
+
+### 💾 Backup Systems
+
+* **Backup** → operational script storage, automation backups, configuration snapshots, and recovery-focused engineering assets
 
 ### 📦 Archive Systems
 
-* **Archive** → legacy scripts, experimental tooling, and historical automation
-
----
-
-## Architecture Philosophy
-
-* Modular engineering design
-* Clear separation of active vs enterprise vs archive systems
-* Reusable automation patterns
-* Production-oriented structure
-* Maintainable repository boundaries
+* **Archive** → legacy automation, deprecated scripts, experimental tooling, and historical engineering artifacts retained for reference
 
 ---
 
