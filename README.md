@@ -6,8 +6,6 @@ Central engineering workspace and portfolio hub for cloud engineering, automatio
 
 ## Overview
 
----
-
 GitHubWorkspace is the top-level engineering hub that connects all repositories into a structured portfolio system.
 
 It serves as the central index for:
