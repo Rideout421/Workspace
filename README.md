@@ -48,8 +48,6 @@ It serves as the central index for:
 
 This workspace provides a unified structure across all engineering repositories, enabling clarity, scalability, and maintainability across cloud and enterprise systems.
 
----
-
 ## License
 
 MIT License — applies across all linked repositories unless otherwise specified.
