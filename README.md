@@ -16,15 +16,11 @@ It serves as the central index for:
 * Infrastructure tooling
 * Scripting and automation frameworks
 
----
-
 ## 🌐 Public Repositories
 
 | Repository                                      | Description                                                                               |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [Platform](https://github.com/Rideout421/Platform) | Cloud-native home lab — Minikube, OpenFaaS, Prometheus, Grafana, MinIO, and OpenTofu IaC |
-
----
 
 ## 📁 Repository Map
 
@@ -47,8 +43,6 @@ It serves as the central index for:
 ### 📦 Archive Systems
 
 * **Archive** → legacy automation, deprecated scripts, experimental tooling, and historical engineering artifacts retained for reference
-
----
 
 ## Purpose
 
