@@ -1,3 +1,4 @@
+
 # 🧠 Workspace
 
 Central engineering workspace and portfolio hub for cloud engineering, automation, infrastructure, and enterprise systems.
@@ -7,7 +8,6 @@ Central engineering workspace and portfolio hub for cloud engineering, automatio
 ## Overview
 
 Workspace is the top-level engineering hub that connects all repositories into a structured portfolio system.
-
 It serves as the central index for:
 
 * Cloud engineering projects
@@ -18,9 +18,10 @@ It serves as the central index for:
 
 ## 🌐 Public Repositories
 
-| Repository                                      | Description                                                                               |
-| ----------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [Platform](https://github.com/Rideout421/Platform) | Cloud-native home lab — Minikube, OpenFaaS, Prometheus, Grafana, MinIO, and OpenTofu IaC |
+| Repository                                          | Description                                                                                |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Platform](https://github.com/Rideout421/Platform)     | Cloud-native home lab — Minikube, OpenFaaS, Prometheus, Grafana, MinIO, and OpenTofu IaC  |
+| [IconMatrix](https://github.com/Rideout421/IconMatrix) | Registry-driven VS Code file icon theme — pipeline-built, extensible, and Keypass-sourced |
 
 ## 📁 Repository Map
 
