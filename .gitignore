@@ -1,0 +1,20 @@
+# ignore everything
+*
+
+# allow directory traversal so git can see into folders
+!*/
+
+# allow only these three files, anchored to repo root
+!/.gitignore
+!/README.md
+!/LICENSE
+
+# =========================
+# CUSTOM LOCAL ASSETS
+# =========================
+logs/
+
+# =========================
+# Secret scanner working output - never commit
+# =========================
+.secret-scan-output/
