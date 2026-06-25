@@ -1,4 +1,3 @@
-
 # 🧠 Workspace
 
 Central engineering workspace and portfolio hub for cloud engineering, automation, infrastructure, and enterprise systems.
@@ -18,10 +17,10 @@ It serves as the central index for:
 
 ## 🌐 Public Repositories
 
-| Repository                                          | Description                                                                                |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [Platform](https://github.com/Rideout421/Platform)     | Cloud-native home lab — Minikube, OpenFaaS, Prometheus, Grafana, MinIO, and OpenTofu IaC  |
-| [IconMatrix](https://github.com/Rideout421/IconMatrix) | Registry-driven VS Code file icon theme — pipeline-built, extensible, and Keypass-sourced |
+| Repository                                          | Description                                                                                 |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Platform](https://github.com/Rideout421/Platform)     | Cloud-native home lab — Minikube, OpenFaaS, Prometheus, Grafana, MinIO, and OpenTofu IaC   |
+| [IconMatrix](https://github.com/Rideout421/IconMatrix) | Registry-driven VS Code icon theme with automated asset processing and dynamic icon mapping |
 
 ## 📁 Repository Map
 
